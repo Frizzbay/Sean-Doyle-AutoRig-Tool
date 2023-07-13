@@ -1,0 +1,9 @@
+import sys
+sys.path.append('D:\Maya_PyCharm')
+sys.path.append('C:\Users\wdcdo\Documents\maya\2023\scripts')
+import AutoRigger
+import Locators
+import Joints
+import SecondaryLocators as SL
+import Controller
+import CreateIK
